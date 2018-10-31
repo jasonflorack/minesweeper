@@ -3,7 +3,6 @@
 import os
 from random import randint
 
-
 class Square():
 	def __init__(self):
 		self.state = '-'
